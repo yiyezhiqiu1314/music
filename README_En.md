@@ -1,8 +1,8 @@
 [简体中文](./README.md) | [繁體中文](./README_繁體.md) | **English** | [한글 소개](./README_한글.md) | [日本語の紹介](./README_日本語.md)
 
-# 🎵 音乐 Repository Collection
+# 🎵 Music Repository Collection
 
-> 📊 This repository collects various high-quality 音乐-related repositories, automatically updated regularly.
+> 📊 This repository collects various high-quality Music-related repositories, automatically updated regularly.
 
 ## 📈 Statistics
 
@@ -10,7 +10,7 @@
 | ----------- | ---------- | ----------- | ------------ | -------------- | --------------- | ---------------- |
 | 2 | 2 | 2025-12-22 | 2 ([qm-music](https://github.com/chenqimiao/qm-music), [xiaomusic](https://github.com/hanxi/xiaomusic)) | 0 (无) | 0 (无) | 0 (无) |
 
-## 🎶 Music Player
+## 🎶 music player
 
 | Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
 | --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
@@ -20,10 +20,10 @@
 
 | Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
 | --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
-| [xiaomusic](https://github.com/hanxi/xiaomusic) | Use the Xiaohai speaker to play music, and use yt-dlp to download music. | [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) | 8620 | 903 | 2025-12-22 | [v0.3.102](https://github.com/hanxi/xiaomusic/releases/tag/v0.3.102) | MIT License |
+| [xiaomusic](https://github.com/hanxi/xiaomusic) | use small love speakers to play music, music use yt-dlp download. | [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) | 8620 | 903 | 2025-12-22 | [v0.3.102](https://github.com/hanxi/xiaomusic/releases/tag/v0.3.102) | MIT License |
 
 
 ---
 
-**Sync Time**: 2025-12-23 17:08:18
+**Sync Time**: 2025-12-23 17:53:24
 **Auto Sync**: Using GitHub Actions for regular updates

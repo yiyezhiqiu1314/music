@@ -14,9 +14,9 @@
 
 | 리포지토리 이름 | 설명 | 링크 | Stars | Forks | 업데이트 시간 | 최신 릴리스 | 라이선스 |
 | -------- | -- | -- | ----- | ----- | ------- | ------ | ---- |
-| [qm-music](https://github.com/chenqimiao/qm-music) | 🎧☁️ Your Private Music Service | [chenqimiao/qm-music](https://github.com/chenqimiao/qm-music) | 450 | 37 | 2025-12-22 | [v1.9.9](https://github.com/chenqimiao/qm-music/releases/tag/v1.9.9) | Apache License 2.0 |
+| [qm-music](https://github.com/chenqimiao/qm-music) | ️🎧 | [chenqimiao/qm-music](https://github.com/chenqimiao/qm-music) | 450 | 37 | 2025-12-22 | [v1.9.9](https://github.com/chenqimiao/qm-music/releases/tag/v1.9.9) | Apache License 2.0 |
 
-## 🔓 음악 해킹
+## 🔓 음악 균열
 
 | 리포지토리 이름 | 설명 | 링크 | Stars | Forks | 업데이트 시간 | 최신 릴리스 | 라이선스 |
 | -------- | -- | -- | ----- | ----- | ------- | ------ | ---- |
@@ -25,5 +25,5 @@
 
 ---
 
-**동기화 시간**: 2025-12-23 17:08:18
+**동기화 시간**: 2025-12-23 17:53:24
 **자동 동기화**: GitHub Actions를 사용하여 정기적으로 업데이트됩니다.
