@@ -8,20 +8,22 @@
 
 | 총 리포지토리 수 | 카테고리 수 | 최근 업데이트 | 1일 내 활성 | 2-7일 내 활성 | 8-15일 내 활성 | 16-30일 내 활성 |
 | --------- | ------ | ------- | ------- | --------- | ---------- | ----------- |
-| 0 | 2 |  | 0 (无) | 0 (无) | 0 (无) | 0 (无) |
+| 2 | 2 | 2025-12-22 | 2 ([qm-music](https://github.com/chenqimiao/qm-music), [xiaomusic](https://github.com/hanxi/xiaomusic)) | 0 (无) | 0 (无) | 0 (无) |
 
 ## 🎶 음악 플레이어
 
 | 리포지토리 이름 | 설명 | 링크 | Stars | Forks | 업데이트 시간 | 최신 릴리스 | 라이선스 |
 | -------- | -- | -- | ----- | ----- | ------- | ------ | ---- |
+| [qm-music](https://github.com/chenqimiao/qm-music) | 🎧☁️ Your Private Music Service | [chenqimiao/qm-music](https://github.com/chenqimiao/qm-music) | 450 | 37 | 2025-12-22 | [v1.9.9](https://github.com/chenqimiao/qm-music/releases/tag/v1.9.9) | Apache License 2.0 |
 
 ## 🔓 음악 해킹
 
 | 리포지토리 이름 | 설명 | 링크 | Stars | Forks | 업데이트 시간 | 최신 릴리스 | 라이선스 |
 | -------- | -- | -- | ----- | ----- | ------- | ------ | ---- |
+| [xiaomusic](https://github.com/hanxi/xiaomusic) | Xiaohai 스피커를 사용하여 음악을 재생하고 yt-dlp를 사용하여 음악을 다운로드하십시오. | [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) | 8620 | 903 | 2025-12-22 | [v0.3.102](https://github.com/hanxi/xiaomusic/releases/tag/v0.3.102) | MIT License |
 
 
 ---
 
-**동기화 시간**: 2025-12-23 16:46:17
+**동기화 시간**: 2025-12-23 16:58:07
 **자동 동기화**: GitHub Actions를 사용하여 정기적으로 업데이트됩니다.
